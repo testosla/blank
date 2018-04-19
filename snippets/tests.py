@@ -4,4 +4,4 @@ from django.test import TestCase
 
 class DummyTest(TestCase):
     def test_main(self):
-        self.assertEqual(1+1,
+        self.assertEqual(1+1, 2)
