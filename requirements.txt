@@ -4,7 +4,7 @@ chardet==3.0.4
 coreapi==2.3.3
 coreschema==0.0.4
 coverage==4.5.1
-Django==2.0.4
+Django==2.2.10
 -e git://github.com/kmmbvnr/django-jenkins.git@f673c8ecded24eb56aeaef8d1c0caeb82208b595#egg=django_jenkins
 django-rest-swagger==2.1.2
 djangorestframework==3.8.2
